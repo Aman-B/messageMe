@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "676455521563",
+    "firebase_url": "https://messageme-e0090.firebaseio.com",
+    "project_id": "messageme-e0090",
+    "storage_bucket": "messageme-e0090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676455521563:android:f9efa8b04fef23fb",
+        "android_client_info": {
+          "package_name": "bewtechnologies.com.messageme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676455521563-qi72vp30q875hf3oqadh559v2rlrba1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmP9wb00ExEEr9KVI0uPWnH8GMsmUsOPc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
